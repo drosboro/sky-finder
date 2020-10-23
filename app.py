@@ -77,8 +77,7 @@ preamble = html.Div([
     html.Br(),
     "License: MIT",
     html.Br(),
-    "Source Code: ",
-    html.A("https://github.com/drosboro/skyfinder", href="https://github.com/drosboro/skyfinder")
+    html.A("View Source Code", href="https://github.com/drosboro/sky-finder")
   ]),
   html.P(
     """
